@@ -13,7 +13,7 @@ body{
 }
 
 .container img{
-  width: 30%;
+  width: 10%;
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
@@ -22,5 +22,5 @@ body{
 }
 
 .container img:hover{
-width: 55%;
+width: 35%;
 }
