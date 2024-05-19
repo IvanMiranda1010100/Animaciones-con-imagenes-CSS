@@ -1,0 +1,26 @@
+
+body{
+  background-color: navy;
+}
+
+.container{
+  margin: 5rem;
+  width: 70%;
+  height:450px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.container img{
+  width: 30%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid white;
+  transition: all ease-in-out 0.5s;
+}
+
+.container img:hover{
+width: 55%;
+}
